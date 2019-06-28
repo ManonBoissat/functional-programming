@@ -22,4 +22,3 @@ Understanding of the principles and applications of declaratative programming, t
 - Language interpretation
 - An interpreter for Lisp
 - An interpreter for Prolog
-- Learning Prerequisites
